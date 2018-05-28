@@ -2,7 +2,7 @@
 
 Before building, make sure that the Cassandra dependency version matches your version :
 
-	compile 'org.apache.cassandra:cassandra-all:3.7'
+	compile 'org.apache.cassandra:cassandra-all:3.11.2'
 
 Then build:
 

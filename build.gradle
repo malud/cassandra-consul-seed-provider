@@ -18,11 +18,11 @@ repositories {
   jcenter()
 }
 
-project.ext.cassversion = '3.9'
+project.ext.cassversion = '3.11.2'
 
 dependencies {
   compile "org.apache.cassandra:cassandra-all:${cassversion}"
-  compile 'com.ecwid.consul:consul-api:1.1.9'
+  compile 'com.ecwid.consul:consul-api:1.4.0'
   compile 'org.apache.commons:commons-collections4:4.0'
   compile 'org.kie.modules:org-apache-commons-lang3:6.5.0.Final'
   compile 'com.google.guava:guava:19.0'

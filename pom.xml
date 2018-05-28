@@ -2,11 +2,11 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>lt.nkts.cassandra</groupId>
   <artifactId>cassandra-consul-seed-provider</artifactId>
-  <version>1.2.3</version>
+  <version>1.2.4</version>
 
   <properties>
-    <cassandra-version>3.10</cassandra-version>
-    <consul-api-version>1.2.2</consul-api-version>
+    <cassandra-version>3.11.2</cassandra-version>
+    <consul-api-version>1.4.0</consul-api-version>
     <maven.compiler.source>1.8</maven.compiler.source>
     <maven.compiler.target>1.8</maven.compiler.target>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
